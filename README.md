@@ -1,4 +1,4 @@
-#Examining Heart Disease Classifiers
+# Examining Heart Disease Classifiers
 Problem Statement
 The problem is that cardiovascular diseases are the leading cause of death globally. The World Health Organization estimates that 17.9 million people died from cardiovascular disease in 2019, representing 32% of all global deaths. 85% of the deaths caused by the cardiovascular system were due to heart attack and stroke. Cardiovascular disease causes 38% of premature deaths. Heart disease is a common ailment, and this dataset contains 11 features that may predict heart disease. This dataset will help develop an early detection classifier to help patients prevent heart failure.
 
